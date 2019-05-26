@@ -9,9 +9,11 @@ This project requires:
 </br>
 Python 3.7.3 already comes with pip package-management system, so once we have it installed, we can simply install all the needed packages by opening a command prompt and typing:</br>
 </br>
+
 ```
 pip install Flask flask-restful requests
 ```
+
 </br>
 This will automatically install everything in our system.
 
