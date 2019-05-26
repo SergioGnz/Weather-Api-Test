@@ -17,7 +17,7 @@ Navigate to the app directory and run the weather.py script passing the city you
 </br>
 ![alt-text](https://github.com/SergioGnz/Weather-Api-Test/blob/master/Docu/Resources/Gif%20App.gif)</br>
 </br>
-##Here you can find more examples of the app working with different cities</br>
+## Here you can find more examples of the app working with different cities</br>
 ![alt-text](https://github.com/SergioGnz/Weather-Api-Test/blob/master/Docu/Resources/1%20word.png)</br>
 ![alt-text](https://github.com/SergioGnz/Weather-Api-Test/blob/master/Docu/Resources/2%20word.png)</br>
 ![alt-text](https://github.com/SergioGnz/Weather-Api-Test/blob/master/Docu/Resources/3%20word.png)</br>
