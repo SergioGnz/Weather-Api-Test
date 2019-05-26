@@ -11,10 +11,14 @@ The web service (api.py) will be running on the local host, on port 5000/weather
 To run it just open a command prompt, navigate to the app directory and type "python api.py"</br>
 </br>
 ![alt-text](https://github.com/SergioGnz/Weather-Api-Test/blob/master/Docu/Resources/Gif%20Api.gif)</br>
+</br>
+Once you got the api.py running, you can open another command prompt and run the weather.py script.</br>
+Navigate to the app directory and run the weather.py script passing the city you want, for example : "python weather.py Palma"</br>
+</br>
+![alt-text](https://github.com/SergioGnz/Weather-Api-Test/blob/master/Docu/Resources/Gif%20App.gif)</br>
 
 ![alt-text](https://github.com/SergioGnz/Weather-Api-Test/blob/master/Docu/Resources/1%20word.png)</br>
 ![alt-text](https://github.com/SergioGnz/Weather-Api-Test/blob/master/Docu/Resources/2%20word.png)</br>
 ![alt-text](https://github.com/SergioGnz/Weather-Api-Test/blob/master/Docu/Resources/3%20word.png)</br>
 ![alt-text](https://github.com/SergioGnz/Weather-Api-Test/blob/master/Docu/Resources/Error.png)</br>
 
-![alt-text](https://github.com/SergioGnz/Weather-Api-Test/blob/master/Docu/Resources/Gif%20App.gif)
