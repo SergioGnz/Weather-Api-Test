@@ -25,6 +25,7 @@ Navigate to the app directory and run the weather.py script passing the city you
 ## Error handling</br>
 </br>
 In case there is a problem with the server or if the city introduced can't be found, it will print an simple error message.</br>
+</br>
 ![alt-text](https://github.com/SergioGnz/Weather-Api-Test/blob/master/Docu/Resources/Error.png)</br>
 </br>
 ## About this project</br>
