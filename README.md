@@ -7,9 +7,8 @@ This project requires:
 - Flask-RESTful 0.3.7 ([Flask-RESTful Installation](https://flask-restful.readthedocs.io/en/0.3.5/installation.html))
 - Request 2.22.0 ([Requests Installation](https://2.python-requests.org/en/master/user/install/#install))</br>
 </br>
-Python 3.7.3 already comes with pip package-management system, so once we have it installed, we can simply install all the needed packages by opening a command prompt and typing:
+Python 3.7.3 already comes with pip package-management system, so once we have it installed, we can simply install all the needed packages by opening a command prompt and typing:</br>
 </br>
-
 ```
 pip install Flask flask-restful requests
 ```
