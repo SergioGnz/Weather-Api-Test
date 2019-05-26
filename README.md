@@ -1,9 +1,16 @@
 # Weather-Api-Test
 A little Python app for a weather forecast test</br>
+</br>
 This project requires:
 - Python 3.7.3 ([Python Installation](https://www.python.org/downloads/))
 - Flask 1.0.3 ([Flask Installation](http://flask.pocoo.org/docs/1.0/installation/#install-flask))
 - Flask-RESTful 0.3.7 ([Flask-RESTful Installation](https://flask-restful.readthedocs.io/en/0.3.5/installation.html))
+- Request 2.22.0 ([Requests Installation](https://2.python-requests.org/en/master/user/install/#install))</br>
+
+```
+
+pip install Flask flask-restful requests
+```
 
 ## How to run the project</br>
 This project is composed of two python scripts, one acting as a web service and the other one used to access it.</br>
