@@ -1,5 +1,11 @@
 # Weather-Api-Test
 A little Python app for a weather forecast test</br>
+
+This project requires:
+·Python 3.7.3
+.Flask 1.0.3
+·Flask-RESTful 0.3.7
+
 [Python Installation](https://www.python.org/downloads/)</br>
 [Flask Installation](http://flask.pocoo.org/docs/1.0/installation/#install-flask)</br>
 [Flask-RESTful Installation](https://flask-restful.readthedocs.io/en/0.3.5/installation.html)</br>
