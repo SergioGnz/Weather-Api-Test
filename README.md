@@ -22,5 +22,7 @@ Navigate to the app directory and run the weather.py script passing the city you
 ![alt-text](https://github.com/SergioGnz/Weather-Api-Test/blob/master/Docu/Resources/2%20word.png)</br>
 ![alt-text](https://github.com/SergioGnz/Weather-Api-Test/blob/master/Docu/Resources/3%20word.png)</br>
 </br>
+## Error handling</br>
+In case there is a problem with the server or if the city introduced can't be found, it will print an simple error message.</br>
 ![alt-text](https://github.com/SergioGnz/Weather-Api-Test/blob/master/Docu/Resources/Error.png)</br>
 
